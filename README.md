@@ -1,4 +1,4 @@
-# e-commerce-webapp-master
+# e-commerce-webapp-Vincent-Van-de-Sompel
 
 ## Project setup
 
